@@ -1,0 +1,20 @@
+2024/11/21-10:22:35.307 3c8c Reusing MANIFEST C:\Users\acer\Desktop\chefgordon-main\chefgordon-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-10:22:35.307 3c8c Recovering log #565
+2024/11/21-10:22:35.309 3c8c Reusing old log C:\Users\acer\Desktop\chefgordon-main\chefgordon-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000565.log 
+2024/11/21-10:22:55.666 252c Level-0 table #572: started
+2024/11/21-10:22:55.670 252c Level-0 table #572: 24761 bytes OK
+2024/11/21-10:22:55.672 252c Delete type=0 #565
+2024/11/21-10:22:55.673 252c Manual compaction at level-0 from '\x00\x8d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x8e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-10:22:55.803 252c Compacting 1@1 + 5@2 files
+2024/11/21-10:22:55.935 252c Generated table #573@1: 79085 keys, 2257959 bytes
+2024/11/21-10:22:55.982 252c Generated table #574@1: 16968 keys, 2166589 bytes
+2024/11/21-10:22:56.104 252c Generated table #575@1: 99170 keys, 2247036 bytes
+2024/11/21-10:22:56.111 252c Generated table #576@1: 4957 keys, 95506 bytes
+2024/11/21-10:22:56.112 252c Compacted 1@1 + 5@2 files => 6767090 bytes
+2024/11/21-10:22:56.113 252c compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/11/21-10:22:56.113 252c Delete type=2 #563
+2024/11/21-10:22:56.113 252c Delete type=2 #564
+2024/11/21-10:22:56.113 252c Delete type=2 #567
+2024/11/21-10:22:56.113 252c Delete type=2 #568
+2024/11/21-10:22:56.113 252c Delete type=2 #569
+2024/11/21-10:22:56.113 252c Delete type=2 #572
