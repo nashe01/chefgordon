@@ -1,13 +1,20 @@
 # Chef Gordon - WhatsApp Cooking Assistant 🤖👨‍🍳
 
-A sophisticated WhatsApp bot that serves as your cooking assistant, providing recipe suggestions, meal planning, cooking tips, and culinary guidance through an interactive chat interface.
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
+
+A sophisticated WhatsApp bot that serves as your personal cooking assistant, providing recipe suggestions, meal planning, cooking tips, and culinary guidance through an interactive chat interface.
 
 ## 🌟 Features
 
 ### Core Functionality
 - **📋 Today's Menu** - View daily curated recipes with step-by-step instructions
 - **📅 Meal Booking** - Schedule cooking sessions and meal preparation slots
-- **👨‍🍳 Custom Recipes** - Generate personalised recipes based on available ingredients
+- **👨‍🍳 Custom Recipes** - Generate personalized recipes based on available ingredients
 - **🥗 Dietary Planning** - Get meal suggestions tailored to dietary preferences (vegetarian, keto, gluten-free, etc.)
 - **🛒 Grocery Lists** - Generate shopping lists based on planned meals
 - **🥡 Leftover Magic** - Transform leftovers into delicious new dishes
@@ -57,7 +64,7 @@ Once connected, users can interact with Chef Gordon by sending messages to the b
 
 1. **Main Menu Options** - Users can select from 13 different services
 2. **Conversational Flow** - The bot maintains context and guides users through multi-step processes
-3. **Personalised Responses** - Each user's session is tracked for personalised assistance
+3. **Personalized Responses** - Each user's session is tracked for personalized assistance
 
 ### Example Interactions
 
@@ -186,3 +193,5 @@ For support and questions:
 ---
 
 **Chef Gordon** - Making cooking accessible, one recipe at a time! 🍳✨
+
+
